@@ -46,7 +46,7 @@
     <td align="center" width="33%">
       <img src="OPPSY.jpeg" alt="OPPSY key art: Control, or be controlled" width="100%" />
       <br /><b>OPPSY</b>
-      <br /><sub>Godot · Built with my brother · In development</sub>
+      <br /><sub>Godot · Development from Nephilim Studios · In development</sub>
     </td>
   </tr>
 </table>
